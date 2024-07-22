@@ -1,5 +1,5 @@
 # HeCiX-Integrating-KGs-and-LLMs-for-Biomedical-Research
-HeCiXKG, Hetionet-Clinicaltrials neXus Knowledge Graph, a novel fusion of
+HeCiX-KG, Hetionet-Clinicaltrials neXus Knowledge Graph, a novel fusion of
 data from ClinicalTrials.gov and Hetionet in a single knowledge graph.
 HeCiX-KG combines data on previously conducted clinical trials from
 ClinicalTrials.gov, and domain expertise on diseases and genes from Hetionet. Further, we
